@@ -1,0 +1,31 @@
+Features of OOPS:
+
+--> Encapsulation
+--> Abstraction
+--> Inheritance
+--> Polymorphism
+
+
+
+What is Class and What is Object?
+
+	Class				Object
+------------------------------------------------------
+Blueprint/template		Uses the blueprint in 				real world		
+
+Non-Real World Entity		Real world entity
+
+Logically existing		Physically existing
+
+State and Behaviour		Uses the State and 					Behaviour of a class
+
+Eg: Human Being is a class	Amitabh Bachan is an 					object
+    Bank is a class		HDFC is an object
+    Animal is a class		Dog is an object
+
+
+
+
+
+
+
