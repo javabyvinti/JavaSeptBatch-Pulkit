@@ -1,0 +1,49 @@
+OOPS 
+
+
+Relationship --> is-a and has-a
+
+
+is-a relationship:
+inheritance--> class level(base - child)
+Dog is-a animal
+HDFC is-a Bank
+
+has-a relationship:
+class-object
+
+Customer has-a Loan
+Amit has-a Account
+
+--> Inheritance : inherit or features
+	root/base class(features)--> inherit--> derived class 
+
+3 types of inheritance in Java 
+
+--> single level inheritance
+--> multilevel inheritance
+--> hierarical inheritance
+
+adv of inheritance -->
+
+--> code reuse
+--> polymorphism--> one way many forms--> eg--> + operator
+string concate--> int arithmetic work
+
+--> method overloading and
+--> method overidding
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
