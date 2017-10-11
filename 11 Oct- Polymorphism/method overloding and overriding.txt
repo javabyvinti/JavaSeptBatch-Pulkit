@@ -1,0 +1,60 @@
+inheritance--> 
+->polymorphism: one way many forms 
+	--> method overloading
+Signature: return type can be different or no. of arguments can be different but method name must be same
+--> Inheritance is not mandatory
+--> Requirement change but data is not changed or logic is not changed
+
+--> method overriding
+	Signature: return type, method name and no. of parameters must be same
+--> Inheritance --> mandatory
+--> Logic needs to changed or modified 
+
+
+
+
+class Student{
+
+	void calculateResult(){
+	}
+	int calculateResult(int value1){
+	}
+
+	float calculateResult(float value1, float value2)
+	{
+	}
+
+	int samsungMobile(int minPrice, int maxPrice){
+
+	}
+	void samsungMobile(int minPrice, int maxPrice, String companyName){
+
+	}
+
+
+}
+
+
+
+
+Access Specifier --> 
+		Level Of Scope
+private		Minimum --> within class
+protected	In Inherited classes
+default		only inside package, At Package Level
+public		within and outside the package
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
