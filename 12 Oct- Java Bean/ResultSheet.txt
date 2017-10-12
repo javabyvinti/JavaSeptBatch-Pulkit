@@ -1,0 +1,19 @@
+RESULT SHEET:
+-----------------------------------------------------------
+
+Name: StudentName		Rollno: StudentRollno
+
+Subject		Marks
+English		 54
+Hindi		 76
+Maths		 43
+
+Total Marks	243
+Percentage	54.76
+Grade		A (Total 5 grades from A to E)
+
+-----------------------------------------------------------
+insert proper validations like:
+User Name: character are entered
+User Rollno: only numbers are allowed
+User Marks: only numbers are allowed and marks less then 100
