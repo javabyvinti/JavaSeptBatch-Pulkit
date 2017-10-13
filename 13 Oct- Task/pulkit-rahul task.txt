@@ -1,0 +1,13 @@
+Q) WAP to print this menu to user
+1. Addition
+2. Subtraction
+3. Division
+4. Multiplication
+
+All above must be able to handle any sort of input either numbers, decimal values, long numbers or long decimal value.
+
+Other questions link:
+
+http://www.guideforschool.com/444401-question-11-inheritance-isc-2011-theory-paper-solved/
+
+https://sites.google.com/site/javaprogramsisc/home/misc/inheritance
