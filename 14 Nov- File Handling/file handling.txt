@@ -1,0 +1,20 @@
+File Handling--> how to handle files through our code
+
+--> Step-1: Create a file
+
+--> Step-2: To check the path of file, or last modified details of file or directory name ,etc.
+
+--> File class 
+
+
+--> Step-2: Write data into file
+(byte form)		(char/text form)
+Stream Classes		Reader classes
+StreamWriters		Writer classes
+StreamReaders		FileReader or FileWriter
+
+image			txt files
+music files
+vidoe files
+
+--> Step-3: Read data from file

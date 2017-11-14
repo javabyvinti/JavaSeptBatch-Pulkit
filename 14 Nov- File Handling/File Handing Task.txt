@@ -1,0 +1,14 @@
+Question:
+
+Choose Any One option
+1. Register
+2. Login
+
+Input --> Username and Userpassword
+
+if user choose 1: take name and password --> store it in file
+
+if user choose 2: take name and password --> check existing in file or not
+
+--> if yes then print welcome username
+--> else authentication failed 
