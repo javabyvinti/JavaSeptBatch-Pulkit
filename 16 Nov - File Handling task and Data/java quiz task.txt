@@ -1,0 +1,14 @@
+Registration and Login
+
+--> Choose any one :
+1 Java
+2 C
+3 C++
+
+--> java question1
+option1 	option2
+option3		option4
+
+accept user ans:
+if ans is correct --> load next question
+if ans is incorrect --> quiz ends here and total score
